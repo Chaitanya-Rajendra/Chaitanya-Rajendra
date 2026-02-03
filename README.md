@@ -15,11 +15,11 @@ I'm Chaitanya
 🤖 Generative AI & LLM Agents
 
 
-##📫 Connect With Me
+## Connect with me
 
 📧 Email: [chaitanyarajendra011@gmail.com]
 💼 LinkedIn: [Your LinkedIn profile link]https://www.linkedin.com/in/chaitanya-rajendra
 
 
-Thanks for visiting! ⭐ Feel free to check out my projects.
+## Thanks for visiting! ⭐ Feel free to check out my projects.
 
