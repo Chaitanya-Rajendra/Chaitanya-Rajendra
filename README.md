@@ -7,10 +7,11 @@
 
 ## My Skills
 
-💻 Languages: Python, C, C++   
+💻 Languages: Python, Java Script, C++   
 🧠 Machine Learning & Deep Learning  
 ⚙️ MLOps Basics  
 🤖 Generative AI & LLM Agents   
+back-end & front-end
 
 
 ## Connect with me
