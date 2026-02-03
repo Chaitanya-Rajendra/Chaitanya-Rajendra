@@ -16,7 +16,7 @@
 ## Connect with me
 
 📧 Email: [chaitanyarajendra011@gmail.com]   
-💼 LinkedIn:  \href{https://www.linkedin.com/in/chaitanya-rajendra}{ [Your LinkedIn profile link]}}
+💼 LinkedIn:[https://www.linkedin.com/in/chaitanya-rajendra]  
 
 
 ## Thanks for visiting! ⭐ Feel free to check out my projects.
