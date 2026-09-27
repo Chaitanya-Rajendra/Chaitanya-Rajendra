@@ -1,4 +1,9 @@
-## Hey there 👋 I'm Chaitanya 
+## Hi, I'm Chaitanya 
+
+Backend and infrastructure engineer, recent AI & DS graduate, building reliable systems and AI agent tooling. Interested in backend, and AI infra roles at fast moving product teams.
+
+📧 Email: [chaitanyarajendra011@gmail.com]   
+💼 LinkedIn:[https://www.linkedin.com/in/chaitanya-rajendra] 
 
 🎯 Aspiring AI Engineer, passionate about Machine Learning, MLOps, and Generative AI    
 📚 Strong in Python, C, C++, ML, DL, and deploying AI solutions    
@@ -16,8 +21,7 @@ back-end & front-end
 
 ## Connect with me
 
-📧 Email: [chaitanyarajendra011@gmail.com]   
-💼 LinkedIn:[https://www.linkedin.com/in/chaitanya-rajendra]  
+
 
 
 ## Thanks for visiting! ⭐ Feel free to check out my projects.
