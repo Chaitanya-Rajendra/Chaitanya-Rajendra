@@ -7,9 +7,9 @@ Backend and infrastructure engineer, recent AI & DS graduate, building reliable 
 
 ## About Me
 
-AI & DS graduate from RNS Institute of Technology, class of 2026
-Backend and platform engineering, with growing focus on AI agent infrastructure and inference engineering
-Based in Bengaluru, India, open to remote-first roles
+AI & DS graduate from RNS Institute of Technology, class of 2026     
+Backend and platform engineering, with growing focus on AI agent infrastructure and inference engineering     
+Based in Bengaluru, India, open to remote-first roles    
 
 🎯 Aspiring AI Engineer, passionate about Machine Learning, MLOps, and Generative AI    
 📚 Strong in Python, C, C++, ML, DL, and deploying AI solutions    
