@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
-<h3 align="center">I'm a Aspiring Python Full Satck Developer, passionate about React.js, FastAPI, Django, Flask, and Generative AI</h3>
+<h3 align="center">I'm a Aspiring Python Full Satck Developer, passionate about React.js, FastAPI, Django, Flask, NLP and Generative AI</h3>
 
 - 🔭 I’m currently working on a multimodal AI consultation platform combining voice input and medical image analysis to process patient queries and generate AI-driven responses. Integrated Groq API for speech-to-text and AI vision capabilities, with ElevenLabs/gTTS for automated text-to-speech, enabling an end-to-end voice-based consultation workflow. Built and deployed an interactive Gradio interface with robust error handling for audio, image, API, network, and file-processing failures, improving reliability of the overall application. Python, Gradio, Groq API, ElevenLabs, AI Voice, Speech-To-Text, Text-to-Speech **ChartBot: AI Doctor with Vision and Voice**
 
